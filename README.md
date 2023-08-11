@@ -14,5 +14,6 @@ Pagina criada em conclusão do primeiro módulo do curso de HTML e CSSa da Alura
 
 # Versão desktop (min 1728px):
 
-![image](https://github.com/danielmster56/Portifolio_2/assets/93445644/a35f502d-4b28-4991-9f5d-2d28745749fe)
+![image](https://github.com/danielmster56/Portifolio_2/assets/93445644/b1806a12-cf0e-4898-8b68-75cfce932e39)
+
 
